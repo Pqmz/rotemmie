@@ -10,7 +10,7 @@ import java.awt.event.ActionListener;
 
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
-
+/**alnjklsnf**//
 public class movement extends JFrame{
 	
 	public movement() {
@@ -28,5 +28,3 @@ public class movement extends JFrame{
 		new movement(); 
 	}
 }
-
-/**lakjasldfjbsdlfkjbasdl**//
