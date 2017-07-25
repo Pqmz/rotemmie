@@ -26,7 +26,6 @@ public class movement extends JFrame{
 
 	public static void main(String[] args) {
 		new movement(); 
-		x = 1;
-		/** fucking hell this project right**/
+		x = 2;
 	}
 }
