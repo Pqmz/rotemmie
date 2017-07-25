@@ -27,6 +27,5 @@ public class stuff extends JPanel implements ActionListener{
 	}
 	public void actionPerformed(ActionEvent e) {
 		repaint();		
-		asdfasdf;  test
 	}
 }
